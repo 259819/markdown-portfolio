@@ -1,7 +1,7 @@
-*bat
+* bat
 
-*ball
+* ball
 
-*bails
+* bails
  
-      *stumps
+      * stumps
